@@ -3,7 +3,7 @@ PATH
   specs:
     rails-i18n (6.0.0)
       i18n (>= 0.7, < 2)
-      railties (>= 6.0.0, < 7)
+      railties (>= 5.0.0, < 7)
 
 GEM
   remote: https://rubygems.org/
@@ -112,4 +112,4 @@ DEPENDENCIES
   rspec-rails (~> 3.7)
 
 BUNDLED WITH
-   1.16.1
+   1.17.3
